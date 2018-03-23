@@ -5,5 +5,6 @@ date:   2018-03-23 12:20:00
 categories: jekyll update
 tags: featured
 image: /assets/article_images/2018-03-23-My-First-Post/jetpack.jpg
+image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
 ---
 This is my first test of a post in this page, i hope that it finally works
