@@ -8,3 +8,6 @@ image: /assets/article_images/2018-03-23-My-First-Post/jetpack.jpg
 image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
 ---
 This is my first test of a post in this page, i hope that it finally works
+
+
+And this part of the body shouldn't appear in the description in the main page
