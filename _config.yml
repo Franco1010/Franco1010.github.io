@@ -6,7 +6,8 @@ gems:
 # Site settings
 title: "Franco Ramirez"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   This is my personal page and blog, here you can find my curriculum, projects,
+   ideas, and some other random entry
 
 email: franco.ramirez@alumno.udg.mx
 #blog logo
@@ -14,7 +15,7 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: 'Franco Ramirez'
 author: 'Franco Ramirez'
@@ -25,7 +26,7 @@ paginate:	5
 url: "http://francoramirez.me/about" # the base hostname & protocol for your site
 baseurl: "http://francoramirez.me"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -33,7 +34,7 @@ twitter_handle: '@dirkfabisch'
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
-#social:
+social:
 #  - icon:	twitter
 #    url:	https://twitter.com/dirkfabisch
 #    desc: Follow me on twitter
