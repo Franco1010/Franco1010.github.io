@@ -3,7 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
 Franco Ariel Ramirez Villa  
 Universidad de Guadalajara  
 Centro Universitario de Ciencias Exactas e Ingenierías  
