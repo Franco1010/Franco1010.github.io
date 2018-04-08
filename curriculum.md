@@ -9,15 +9,15 @@ mobile number +52 3411487150
 Git hub profile: [Franco1010](https://github.com/Franco1010)
 
 ### EDUCATION		
-Universidad de Guadalajara, CUCEI
-Ingeniero en Computación
-July 2020
-92.5/100
+Universidad de Guadalajara, CUCEI  
+Ingeniero en Computación  
+July 2020  
+92.5/100  
 
-Centro de Bachillerato Tecnológico Industrial y de Servicio 226
-Tecnico en Electrónica
-July 2016
-96/100
+Centro de Bachillerato Tecnológico Industrial y de Servicio 226  
+Tecnico en Electrónica  
+July 2016  
+96/100  
 
 
 ### AWARDS AND LEADERSHIP
