@@ -15,12 +15,9 @@ image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
 #### Este trabajo fue desarrollado como proyecto participante durante el desarrollo del hackaton codeGDL 2018
 
 ## Equipo:
-Franco Ariel Ramirez Villa
-
-Aida Crystal Rodriguez Soto
-
-Alfonso Gomez Martinez
-
+Franco Ariel Ramirez Villa  
+Aida Crystal Rodriguez Soto  
+Alfonso Gomez Martinez  
 Diego Gustavo Ramirez Guerrero
 
 ## Introduccion
