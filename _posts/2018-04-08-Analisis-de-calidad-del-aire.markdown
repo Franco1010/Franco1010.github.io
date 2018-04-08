@@ -10,7 +10,7 @@ image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
 
 
 
-# Prediccion de la Calidad del Aire
+# [Prediccion de la Calidad del Aire](https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/)
 
 #### Este trabajo fue desarrollado como proyecto participante durante el desarrollo del hackaton codeGDL 2018
 
