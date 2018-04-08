@@ -22,22 +22,21 @@ July 2016
 
 ### AWARDS AND LEADERSHIP
 
-1st place in Programing Contest ITCG, 2018
-1st place in Regional Mexican Mathematic Olympiad, 2015
-2nd place in Regional Mexican Mathematic Olympiad, 2014
-1st place by teams in Regional Mexican Mathematic Olympiad, 2014
-11th place in National Pre-university Math Tournament, 2015
+- 1st place in Programing Contest ITCG, 2018
+- 1st place in Regional Mexican Mathematic Olympiad, 2015
+- 2nd place in Regional Mexican Mathematic Olympiad, 2014
+- 1st place by teams in Regional Mexican Mathematic Olympiad, 2014
+- 11th place in National Pre-university Math Tournament, 2015
 
 ### MAJOR SCHOOL PROJECTS
 
 Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinator and participant of a set of videoconferences by people of the best universities of Mexico, was mainly aimed at high school students, a complete course with a introduction, theory and problems about each important area in Mexican Computing Olympiad and ACM-ICPC
 
 ### WORK EXPERIENCE
-
-  08/15 - 06/16		CBTis226
+- 08/15 - 06/16		CBTis226
 			Advisor in math department
       Advising and tutor for students of the school in their math subjects, also when I could in their electronic subjects too, my job here was a second class with a different view point for those who don't understand a class or simply miss a topic
-  08/14 - 06/16	CBTis226
+- 08/14 - 06/16	CBTis226
 	   Coach in math club
      Coaching prospects for Regional Mathematic Olympiad
 
