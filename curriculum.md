@@ -3,7 +3,6 @@ layout: page
 title: Curriculum
 permalink: /curriculum/
 ---
-
 ## Franco Ariel Ramirez Villa
 franco.ramirez@alumno.udg.mx
 
