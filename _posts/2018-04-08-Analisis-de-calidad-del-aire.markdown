@@ -4,8 +4,7 @@ title:  "Analisis de la calidad del Aire"
 date:   2018-04-08 12:20:00
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2018-03-23-My-First-Post/jetpack.jpg
-image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
+image: /assets/article_images/2018-04-08-Analisis-de-calidad-del-aire/546597.jpg
 ---
 
 
@@ -13,7 +12,7 @@ image2: /assets/article_images/2018-03-23-My-First-Post/jetpack2.jpg
 # Prediccion de la Calidad del Aire
 
 #### Este trabajo fue desarrollado como proyecto participante durante el desarrollo del hackaton codeGDL 2018  
-[https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/](https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/)
+[leones000.github.io/Data-Science-Prediccion-calidad-del-aire/](https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/)
 
 ## Equipo:
 Franco Ariel Ramirez Villa  
