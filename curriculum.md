@@ -4,15 +4,15 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-#Franco Ariel Ramirez Villa
-##Franco Ariel Ramirez Villa
-###Franco Ariel Ramirez Villa
+# Franco Ariel Ramirez Villa
+## Franco Ariel Ramirez Villa
+### Franco Ariel Ramirez Villa
 [franco.ramirez@alumno.udg.mx](franco.ramirez@alumno.udg.mx)
 
 mobile number +52 3411487150
 Git hub profile: [Franco1010](https://github.com/Franco1010)
 
-#EDUCATION		
+# EDUCATION		
 Universidad de Guadalajara, CUCEI
 Ingeniero en Computación
 July 2020
@@ -24,7 +24,7 @@ July 2016
 96/100
 
 
-#AWARDS AND LEADERSHIP
+# AWARDS AND LEADERSHIP
 
 1st place in Programing Contest ITCG, 2018
 1st place in Regional Mexican Mathematic Olympiad, 2015
@@ -32,11 +32,11 @@ July 2016
 1st place by teams in Regional Mexican Mathematic Olympiad, 2014
 11th place in National Pre-university Math Tournament, 2015
 
-#MAJOR SCHOOL PROJECTS
+# MAJOR SCHOOL PROJECTS
 
 Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinator and participant of a set of videoconferences by people of the best universities of Mexico, was mainly aimed at high school students, a complete course with a introduction, theory and problems about each important area in Mexican Computing Olympiad and ACM-ICPC
 
-#WORK EXPERIENCE
+# WORK EXPERIENCE
 
   08/15 - 06/16		CBTis226
 			Advisor in math department
@@ -46,7 +46,7 @@ Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinator and participant
      Coaching prospects for Regional Mathematic Olympiad
 
 
-#TECHNICAL SKILLS
+# TECHNICAL SKILLS
 			Programming Languages:
 			C/C++/C#	4 years
 			CCS		2 years
@@ -56,11 +56,11 @@ Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinator and participant
 
 			Platforms: Win XP (user), Linux (user), OSX(user)
 
-#CONGRESSES
+# CONGRESSES
 			-67TH International Astronautical Congress, Guadalajara, Mexico, September 2016.
 			-8TH international Supercomputing Conference in Mexico, Guadalajara, March 2017
 
 
-#LANGUAGES
+# LANGUAGES
 			Spanish (Native language)
 			English (Advanced)
