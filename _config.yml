@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "email:"
 email: franco.ramirez@alumno.udg.mx
 #blog logo
 logo: "/assets/images/df_logo.jpg"
-logo2: "/assets/images/mLogo.png"
+#logo2: "/assets/images/mLogo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -20,7 +20,7 @@ cover: "/assets/images/cover.jpg"
 
 name: 'Franco Ramirez'
 author: 'Franco Ramirez'
-author_image: "/assets/images/df_logo.jpg"
+author_image: "/assets/images/mLogo.jpg"
 
 paginate:	5
 
