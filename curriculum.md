@@ -42,21 +42,20 @@ Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinator and participant
      Coaching prospects for Regional Mathematic Olympiad
 
 
-###TECHNICAL SKILLS
-			Programming Languages:
-			C/C++/C#	4 years
-			CCS		2 years
-			Python		1 year
-			HTML/CSS	6 months
-			Java		6 months
-
-			Platforms: Win XP (user), Linux (user), OSX(user)
+### TECHNICAL SKILLS
+- Programming Languages:
+- C/C++/C#	4 years
+- CCS		2 years
+- Python		1 year
+- HTML/CSS	6 months
+- Java		6 months
+- Platforms: Win XP (user), Linux (user), OSX(user)
 
 ### CONGRESSES
-			-67TH International Astronautical Congress, Guadalajara, Mexico, September 2016.
-			-8TH international Supercomputing Conference in Mexico, Guadalajara, March 2017
+- -67TH International Astronautical Congress, Guadalajara, Mexico, September 2016.
+- -8TH international Supercomputing Conference in Mexico, Guadalajara, March 2017
 
 
 ### LANGUAGES
-			Spanish (Native language)
-			English (Advanced)
+- Spanish (Native language)
+- English (Advanced)
