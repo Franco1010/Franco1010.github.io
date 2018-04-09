@@ -7,8 +7,8 @@ tags: featured
 image: /assets/article_images/2018-04-08-ACM-ICPC/icpc2.jpg
 ---
 ### International Collegiate Programming Contest
+<a href="http://francoramirez.me/ACM-ICPC/"><font color="green">ACM-ICPC</font></a>
 
-<font color="green"><a href="http://francoramirez.me/ACM-ICPC/">ACM-ICPC</a> </font>  
 
 #### [ACM-ICPC](http://francoramirez.me/ACM-ICPC/)
 This is a link to a page of my personal repository in github with all my trajectory in competitive programming: solutions, contests, algorithms, books, etc.  
