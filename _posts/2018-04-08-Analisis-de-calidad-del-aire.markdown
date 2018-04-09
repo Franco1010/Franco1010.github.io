@@ -10,7 +10,7 @@ image: /assets/article_images/2018-04-08-Analisis-de-calidad-del-aire/546597.jpg
 
 
 # Prediccion de la Calidad del Aire
-
+  
 #### Este trabajo fue desarrollado como proyecto participante durante el desarrollo del hackaton codeGDL 2018  
 [leones000.github.io/Data-Science-Prediccion-calidad-del-aire/](https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/)
 
