@@ -4,7 +4,7 @@ title:  "ACM - ICPC"
 date:   2018-04-09 12:20:00
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2018-04-08-ACM-ICPC/acm_icpc_logo.png
+image: /assets/article_images/2018-04-08-ACM-ICPC/acm_icpc_prep.jpg
 ---
 ### International Collegiate Programming Contest
 
