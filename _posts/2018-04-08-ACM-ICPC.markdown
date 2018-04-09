@@ -7,7 +7,8 @@ tags: featured
 image: /assets/article_images/2018-04-08-ACM-ICPC/acm_icpc_logo.png
 ---
 ### International Collegiate Programming Contest
-    
+
+
 This is a link to a page of my personal repository in github with all my trajectory in competitive programming: solutions, contests, algorithms, books, etc.  
 
 I hope you enjoy it!
