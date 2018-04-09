@@ -14,19 +14,19 @@ image: /assets/article_images/2018-04-08-Analisis-de-calidad-del-aire/546597.jpg
 #### Este trabajo fue desarrollado como proyecto participante durante el desarrollo del hackaton codeGDL 2018  
 [leones000.github.io/Data-Science-Prediccion-calidad-del-aire/](https://leones000.github.io/Data-Science-Prediccion-calidad-del-aire/)
 
-## EQUIPO:
+### EQUIPO:
 Franco Ariel Ramirez Villa  
 Aida Crystal Rodriguez Soto  
 Alfonso Gomez Martinez  
 Diego Gustavo Ramirez Guerrero
 
-## INTRODUCCION
+### INTRODUCCION
 No es una noticia nueva que la contaminación existe, que está en aumento y que se le debe dar una solución a la brevedad. Diferentes gases están presentes todos los días en el aire que respiramos, tales como monóxido y dioxido de carbono, monóxido de nitrógeno, dioxido de azufre, metano, entre otros. No obstante, el efecto que causa en las personas el escuchar "el SO2 del aire aumentó en x% este año" no es más que uno de aceptación y resignación; nos acostumbramos a que la tendencia sea de mal en peor y ésto nos nubla a no darnos cuenta de que sí, la cosa va mal y si no hacemos algo pronto, no lo podremos hacer después. Cuando nos dimos cuenta de la interpretación a las palabras de alerta, decidimos implementar otra metodología. ¿Y si la gente pudiera ver el aumento del que todos hablan, pero de forma gráfica? Lograr que lo dramático de la inclinación de la pendiente que anuncia el aumento a través de los años de alguno de los gases nocivos de una mejor explicación de lo mal que pinta la situación. Una buena visualización de los datos cuenta siempre la mejor de las historias. Con este lema en mente creamos el presente documento.
 
-## LECTURA DE DATOS
+### LECTURA DE DATOS
 Con ayuda del software R importamos los archivos que se nos facilitaron. Para ésta acción, decidimos cambiar el tipo de archivo a csv (dividido por comas), ya que el software se mostraba amigable con éste tipo de formato que se le enviaba. Además, creamos un nuevo archivo que agrupó toda la información en conjunto. De esta forma, pudimos tener todos los datos con los que contabamos en una sola variable.
 
-## LIMPIEZA DE LOS DATOS
+### LIMPIEZA DE LOS DATOS
 
 Para realizar el análisis de datos, decidimos agrupar los datos tomando como parametro la partícula, así que tomamos una particula y la analizamos a cierta hora del día durante todo el año en una zona determinada.
 Nos pareció una forma practica de modelar los datos, ya que así podemos obtener datos relevantes como:
@@ -37,7 +37,7 @@ Una vez que organizamos de esa manera los datos, tuvimos que asumir que habian d
 
 Para eliminarlas utilizamos el metodo MAD: Median Absolute Deviation, que obtiene la desviación absoluta con respecto a la media. Y podemos asumir que los valores que sean mayores o menores a la media más o menos a la MAD, se consideran atipicos respectivamente. Además excluimos aquellos casos que contenian valores nulos, negativos y con valor a cero.
 
-##  PROMEDIOS POR HORAS (SO2, CO, NO2, NOX)
+###  PROMEDIOS POR HORAS (SO2, CO, NO2, NOX)
 Con el siguiente código en R se obtuvieron los promedios de cada hora tomando a todos y cada uno de los factores de contaminación, esto para evaluar en que horas se elevan los niveles en promedio con respecto a otros, para asi graficar mas adelante en los niveles mas significativos del muestreo.
 
 ``` R
@@ -56,7 +56,7 @@ Hora13=0.2849705 | Hora14=0.2575102 | Hora15=0.258061 | Hora16=x | Hora17=x | Ho
 Hora19=x | Hora20=0.3932199 | Hora21=0.4444491 | Hora22=0.4394486 | Hora23=x | Hora24=x
 
 
-## ÁNALISIS DE DATOS
+### ÁNALISIS DE DATOS
 Unz vez obtenidos los promedio anteriores, determinamos que entre las 24 horas del día donde se registraron datos, habían 3 horas que tenían mayor saturación de componentes químicos contaminantes, dichas horas fueron las 9 am, 3 pm y 9 pm. En base a éstas 3 horas más significativas, graficamos la cantidad de partículas contaminantes en promedio por cada año, y generamos 4 graficas en base a un componente químico específico; para esto, determinamos los componenetes químicos con mayor influencia en la calidad del aire en base a una búsqueda de información, por lo que nuestros compuestos químicos son el CO, No2, So2 y el NoX.
 Utilizamos el siguiente código en R para generar nuestras gráficas:
 
@@ -77,7 +77,7 @@ title(xlab="Year", col.lab=rgb(0,0.5,0))
 title(ylab="Sensors", col.lab=rgb(0,0.5,0))
 legend(1, 1000, c("AGU","ATM","CEN","LDO","MIR","OBL","TLA","VAL"), cex=0.8, col=c("blue","red","orange","black","green","gray","brown","pink"), pch=21:22, lty=1:2)
 ```
-## GRAFICAS
+### GRAFICAS
 Gráfica del componente CO en la hora 9, desde 1996 hasta 2011:
 ![co9](https://user-images.githubusercontent.com/26826159/37568149-dc2e3858-2a96-11e8-9298-38c4419c7a4e.jpg)
 
@@ -114,7 +114,7 @@ Gráfica del componente SO2 en la hora 15, desde 1996 hasta 2011:
 Gráfica del componente SO2 en la hora 21, desde 1996 hasta 2011:
 ![so21](https://user-images.githubusercontent.com/26826159/37568261-43bea81c-2a98-11e8-9e50-42271d7359b9.jpg)
 
-## MODELO PREDICTIVO LINEAL
+### MODELO PREDICTIVO LINEAL
 
 ```R
 
@@ -172,7 +172,7 @@ plot(vecP)
 ![acf45d20-c023-4877-ac2b-d62f118c52e7](https://user-images.githubusercontent.com/37254626/37568384-0eedfc58-2a9a-11e8-91f0-d376ff87a41f.jpg)
 
 
-## CONCLUSIONES
+### CONCLUSIONES
 Este proyecto sucitó muchos retos, desde el aprendizaje de un nuevo lenguaje, el tratamiento de datos útiles y los parámetros que a éstos determinan, etc.
 Pudimoa notar que las ppm de los gases en el ambiente dependen de una gran cantidad de variables. El conflicto inicia cuando se debe decidir qué variables sí y cuáles no considerar., entrando en un duelo entre precisión y complejidad, ya que más variables (que sí tengan impacto en el modelo) pueden dar mejor detalle de la tendencia en el tiempo del sistema.
 Ser capaces de mostrar la data de forma optimizada y visualmente útil es ya una herramienta adquirida para próximas investigaciones y reportes.
