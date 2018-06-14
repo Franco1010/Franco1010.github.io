@@ -23,6 +23,7 @@ July 2016
 ### AWARDS AND LEADERSHIP
 
 - 1st place in Programing Contest ITCG, 2018
+- 3rd place in X Programming Contest "Donald Knuth" ESCOM-IPN, 2018
 - 1st place in Regional Mexican Mathematic Olympiad, 2015
 - 2nd place in Regional Mexican Mathematic Olympiad, 2014
 - 1st place by teams in Regional Mexican Mathematic Olympiad, 2014
