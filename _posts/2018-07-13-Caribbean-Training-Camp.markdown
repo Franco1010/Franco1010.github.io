@@ -9,7 +9,7 @@ image: /assets/article_images/2018-07-13-Caribbean-Training-Camp/2.JPG
 
 I assist to the 11 ICPC Caribbean Training Camp in the UCI ( Universidad de Ciencias Informaticas )
 in La Habana, Cuba and here I'm going to explain my experience in the camp and the country.  
-![TRAINING ZONE](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/4.JPG)  
+![TRAINING ZONE](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/4.png)  
 
 ### The Country
 
