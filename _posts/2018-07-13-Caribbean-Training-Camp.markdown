@@ -22,7 +22,7 @@ If you plan to visit Cuba sometime don't forget to try the mojitos.
 
 ### The Training
 
-Our principal coach was [Pablo Zimmerman](https://www.facebook.com/pablo.zimmermann.1), the training consist of 2 weeks with 5 classes, 1 introduction, 5 contest and one extra contest for the challengers of the camp, was a hard training for my team and I, mainly because after each exam, the trainers recommend to do "up solving" doing at least one problem that your team doesn't achieve in the contest, so basically it was all day programming and trying to solve problems that doesn't solve in the 5 hours of your contest.  
+Our principal coach was <a href="https://www.facebook.com/pablo.zimmermann.1" target="_blank">Pablo Zimmermann</a>, the training consist of 2 weeks with 5 classes, 1 introduction, 5 contest and one extra contest for the challengers of the camp, was a hard training for my team and I, mainly because after each exam, the trainers recommend to do "up solving" doing at least one problem that your team doesn't achieve in the contest, so basically it was all day programming and trying to solve problems that doesn't solve in the 5 hours of your contest.  
 The topics of the classes were:
 - General Solutions
 - Greedy
@@ -31,4 +31,6 @@ The topics of the classes were:
 - Combinatory and Probability
 - Chinese Remainder Theorem
 
-And you can find <a href="https://www.facebook.com/pablo.zimmermann.1" target="_blank">Título del enlace</a>.
+And soon you can find all the classes and presentations in my page: <a href="http://francoramirez.me/ACM-ICPC/" target="_blank">ACM-ICPC</a>
+
+It's important to mention the high level of the competitors that we face in Cuba. It's awesome how the great majority of the teams of other countries have less than the half of the problems of a cuban team at the end of the contest. I'm leaving with a lot of new knowledge, tips, and experience, but also with a bad taste in my mouth with our performance and eager to return and probe to myself that we can do better.
