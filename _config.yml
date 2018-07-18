@@ -43,6 +43,13 @@ social:
 #    share_title: ?text=
 #    share_link: "&amp;url="
 
+  - icon: linkedin
+    url: https://www.linkedin.com/in/franco1010
+    desc: Connect with me on Linkeind
+    share_url: https://www.linkedin.com/in/franco1010
+    share_title:
+    share_link:
+
   - icon:	facebook
     url:	https://www.facebook.com/francoramirez1010
     desc: Connect with me on facebook
