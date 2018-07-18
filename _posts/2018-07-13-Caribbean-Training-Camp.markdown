@@ -4,7 +4,7 @@ title:  "Caribbean Training Camp"
 date:   2018-07-13 12:20:00
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2018-04-08-ACM-ICPC/icpc2.jpg
+image: /assets/article_images/2018-07-13-Caribbean-Training-Camp/1.jpg
 ---
 
 I assist to the 11 ICPC Caribbean Training Camp in the UCI ( Universidad de Ciencias Informaticas )
