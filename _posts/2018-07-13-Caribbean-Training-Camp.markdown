@@ -20,7 +20,7 @@ The university is huge, it has rows and rows of buildings, a lot of them are for
 As a curiosity, before Fidel Castro found the UCI most of the buildings belonged to a Russian military base, for that reason some of the buildings look old, but don't misunderstand me, the UCI is beautiful and has a lot of history in it.  
 La Habana has too much to see, with a lot of tourist points, a lot of history, a lot of culture, but be careful it also comes with a lot of tourist traps with exorbitant prices.  
 
-![HOTEL](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/3.JPG)
+![HOTEL](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/5.JPG)
 
 If you plan to visit Cuba sometime don't forget to try the mojitos.  
 
