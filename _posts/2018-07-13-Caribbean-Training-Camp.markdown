@@ -15,12 +15,13 @@ in La Habana, Cuba and here I'm going to explain my experience in the camp and t
 ### The Country
 
 My team and I stayed at the university hotel which consist of two large buildings in the center of the university, the camp offers an apartment for the team, each of us with our own room with all the services and the most important thing: with air conditioning which was very good because Cuba is quite hot.  
+
 ![HOTEL](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/3.JPG)
 The university is huge, it has rows and rows of buildings, a lot of them are for the students because all the students have their own room and 3 meals all days for free while they course a career in the UCI.  
 As a curiosity, before Fidel Castro found the UCI most of the buildings belonged to a Russian military base, for that reason some of the buildings look old, but don't misunderstand me, the UCI is beautiful and has a lot of history in it.  
 La Habana has too much to see, with a lot of tourist points, a lot of history, a lot of culture, but be careful it also comes with a lot of tourist traps with exorbitant prices.  
 
-![HOTEL](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/5.JPG)
+![LA HABANA](http://francoramirez.me/assets/article_images/2018-07-13-Caribbean-Training-Camp/5.JPG)
 If you plan to visit Cuba sometime don't forget to try the mojitos.  
 
 ### The Training
