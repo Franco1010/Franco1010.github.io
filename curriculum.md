@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum
+title: Curriculum / Resume
 permalink: /curriculum/
 ---
 ## Franco Ariel Ramirez Villa
