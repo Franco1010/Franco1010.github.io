@@ -32,10 +32,21 @@ July 2016
 
 ### MAJOR SCHOOL PROJECTS
 
-Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinate and impart a set of videoconferences with people of the best universities of Mexico, was mainly aimed at high school students, a complete course with a introduction, theory and problems about each important area in Mexican Computing Olympiad and ACM-ICPC.
+Image Analysis
+Project in C# in Visual Studio
+February 2018 – June 2018
+§ Detect circles in an image and create a graph checking collision with structures between nodes.
+§ Search minimum paths with a certain number of nodes and create the minimum spanning trees.
+§ Create a game above the graph with prey and predators particles that interact taking decisions and moving to the target.
 
 
 ### EXPERIENCE
+- UdeG Algorithms Club
+§ Founder and collaborator of Algorithms Club of the University.
+§ Imparted trainings for ACM-ICPC beginners
+§ A collaboration of students and teachers, with the only purpose of rise the competitive level of the students that already
+have a team or want to start in competitive programming
+- Summer 2017 UdeG CUCEI Online Videoconferencing for OMI / ACM: Coordinate and impart a set of videoconferences with people of the best universities of Mexico, was mainly aimed at high school students, a complete course with a introduction, theory and problems about each important area in Mexican Computing Olympiad and ACM-ICPC.
 - 08/15 - 06/16		CBTis226
 			Advisor in math department
       Advising and tutor for students of the school in math and electronic subjects, my job here was a second class with a different view point for those who don't understand a class or simply miss a topic.
