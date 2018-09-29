@@ -47,7 +47,6 @@ Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinate and impart a set
 ### TECHNICAL SKILLS
 - Programming Languages:
 - C/C++			4 years
-- CCS				2 years
 -	C#				1 year
 - Python		1 year
 - HTML/CSS	6 months
