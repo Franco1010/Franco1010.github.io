@@ -10,7 +10,7 @@ Git hub profile: [Franco1010](https://github.com/Franco1010)
 
 ### EDUCATION		
 Universidad de Guadalajara, CUCEI  
-Computing Engineering
+Computing Engineering  
 Expected graduation date: July 2020  
 91.5/100  
 
