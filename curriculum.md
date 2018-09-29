@@ -56,7 +56,9 @@ Summer 2017 	Online Videoconferencing for OMI / ACM: Coordinate and impart a set
 
 ### TRAINING CAMPS
 - UCI ICPC Caribbean Training Camp 2018 Competitive Programming.
-- UdeG Training Camp 2018 Competitive Programming
+- 1st CIMAT Training Camp – Algorithms School 2018
+- 1st UdeG Training Camp 2018 Competitive Programming. 
+- 2nd UdeG Training Camp 2018 Competitive Programming.
 
 ### CONGRESSES
 - 8TH international Supercomputing Conference in Mexico, Guadalajara, March 2017.
