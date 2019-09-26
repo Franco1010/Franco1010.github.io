@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Franco Ariel Ramirez Villa
 
-franco.ramirez@alumno.udg.mx  
+<a href="mailto:franco.ramirez@alumno.udg.mx">franco.ramirez@alumno.udg.mx</a>  
 mobile number +52 1 3327013677  
 Git hub profile: [Franco1010](https://github.com/Franco1010)
 
@@ -22,12 +22,14 @@ Electronic Technician
 July 2016  
 96/100
 
-### EXPERIENCE - VOLUNTEERING
+### EXPERIENCE
 
 Facebook, Inc. - Summer 2019 - Software Engineer Intern
 
 - Worked on PHP / Hack backend with React front end, implemented the messenger.com/desktop landing page, with logging and telemetry, dashboards and Presto queries.
 - Added touch-bar integration for the Messenger Desktop application for MacOS.
+
+### EXPERIENCE - VOLUNTEERING
 
 UdeG - August 2018 / Present - Algorithms Club
 
