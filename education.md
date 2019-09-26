@@ -5,12 +5,12 @@ permalink: /education/
 ---
 
 Universidad de Guadalajara, CUCEI  
-Ingeniero en Computación  
+Computer Engineering
 July 2020  
 91.5/100
 
 Centro de Bachillerato Tecnológico Industrial y de Servicio 226  
-Tecnico en Electrónica  
+Electronics Technician
 July 2016  
 96/100
 
