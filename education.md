@@ -6,7 +6,7 @@ permalink: /education/
 
 Universidad de Guadalajara, CUCEI  
 Computer Engineering
-July 2020  
+Graduating on June 2021
 91.5/100
 
 Centro de Bachillerato Tecnológico Industrial y de Servicio 226  
