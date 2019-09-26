@@ -7,7 +7,7 @@ permalink: /resume/
 ## Franco Ariel Ramirez Villa
 
 franco.ramirez@alumno.udg.mx  
-mobile number +52 1 3411487150  
+mobile number +52 1 3327013677  
 Git hub profile: [Franco1010](https://github.com/Franco1010)
 
 ### EDUCATION
